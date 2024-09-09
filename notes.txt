@@ -1,0 +1,1 @@
+Yüklü olmayan moduülleri bulup ekler //go mod tidy 
